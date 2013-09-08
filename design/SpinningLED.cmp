@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 8/31/2013 1:33:48 PM
+Cmp-Mod V01 Created by CvPcb (2013-08-23 BZR 4296)-product date = 9/7/2013 4:45:30 PM
 
 BeginCmp
 TimeStamp = /521A956B;
@@ -24,7 +24,7 @@ EndCmp
 BeginCmp
 TimeStamp = /521AABAD;
 Reference = D1;
-ValeurCmp = 1N418;
+ValeurCmp = 1N4148;
 IdModule  = D3;
 EndCmp
 
@@ -113,17 +113,10 @@ IdModule  = DIP-16__300_ELL;
 EndCmp
 
 BeginCmp
-TimeStamp = /52223306;
+TimeStamp = /522B9AE6;
 Reference = P1;
-ValeurCmp = CONN_1;
-IdModule  = PINTST;
-EndCmp
-
-BeginCmp
-TimeStamp = /52223315;
-Reference = P2;
-ValeurCmp = CONN_1;
-IdModule  = PINTST;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
 EndCmp
 
 BeginCmp
