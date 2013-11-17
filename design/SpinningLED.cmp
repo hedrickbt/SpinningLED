@@ -1,4 +1,11 @@
-Cmp-Mod V01 Created by CvPcb (2013-08-23 BZR 4296)-product date = 9/7/2013 4:45:30 PM
+Cmp-Mod V01 Created by CvPcb (2013-08-23 BZR 4296)-product date = 11/10/2013 8:12:49 PM
+
+BeginCmp
+TimeStamp = /522B9AE6;
+Reference = 9V+1;
+ValeurCmp = CONN_2;
+IdModule  = ;
+EndCmp
 
 BeginCmp
 TimeStamp = /521A956B;
@@ -113,13 +120,6 @@ IdModule  = DIP-16__300_ELL;
 EndCmp
 
 BeginCmp
-TimeStamp = /522B9AE6;
-Reference = P1;
-ValeurCmp = CONN_2;
-IdModule  = SIL-2;
-EndCmp
-
-BeginCmp
 TimeStamp = /521A8B2B;
 Reference = R1;
 ValeurCmp = 470K;
@@ -162,17 +162,10 @@ IdModule  = R4;
 EndCmp
 
 BeginCmp
-TimeStamp = /521A9436;
-Reference = R7;
-ValeurCmp = 0;
-IdModule  = R4;
-EndCmp
-
-BeginCmp
 TimeStamp = /521AA603;
 Reference = SW1;
 ValeurCmp = SW_PUSH;
-IdModule  = SW_PUSH_SMALL;
+IdModule  = SW_PUSH_SMALL_BTH;
 EndCmp
 
 EndListe
